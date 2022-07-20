@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ozan</h1>
 <h3 align="center">Junior Computer Science Student</h3>
 
-- 🌱 I’m currently learning **.Net WPF**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **Python**
 
