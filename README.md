@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ozanhalis)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ozanhalisilter)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
